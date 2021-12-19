@@ -69,11 +69,7 @@ experiences:
   
 projects:
     title: Projects
-    intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years."
-
-    title: Alarm.com
-    intro: >
-    
+    intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years."    
 
     assignments:
       - title: Quality Control engineer

@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,11 +13,11 @@ sidebar:
 
     # Sidebar links
     email: duonghoangoanh.ctc@gmail.com
-    phone: 
+    phone: 0934995001
     website: oreliaduong.github.io #do not add http://
-    linkedin: 
+    linkedin: oanh-duong-94464b117
     xing: 
-    github: 
+    github: oreliaduong
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -31,16 +31,6 @@ sidebar:
 
       - idiom: English
         level: Native
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -95,9 +85,6 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-
-publications:
-    papers:
 
 skills:
     title: Skills &amp; Proficiency

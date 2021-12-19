@@ -21,7 +21,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab: #
     bitbucket:
-    twitter: $
+    twitter: #
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -63,42 +63,50 @@ experiences:
       time: 2013 - 2014
       company: KEAZ Pty Ltd
       details: |
+
+
+
   
 projects:
+    title: Projects
+    intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years."
+
     title: Alarm.com
     intro: >
-      Alarm.com is the award-winning smart home and business security platform that millions of customers depend on every day. 
-      Twenty years ago, we reinvented the security system to protect you better from intruders.
-      We've been reinventing it ever since, creating a service that protects home and business owners worldwide,
-      including our own friends and families.
+    
 
     assignments:
-      - title: Web testing
-        link: "#"
-        tagline: "A Management site for smarthome kit setup"
-
-      - title: IOS Testing
-        link: "#"
-        tagline: "A Mobile client for user to setup their home kit"
-
-      - title: IoT Testing
-        link: "#"
-        tagline: "The smart home devices like camera, doorbell, thermal, sensors .."
-
-    title: Lotte.vn
-    intro: >
-      Lotte.vn is ecomerce website for Vietnam
-
-    assignments:
-      - title: Web testing
-        link: "#"
-        tagline: "Ecomerce web application"
-
-      - title: API Testing
-        link: "#"
-        tagline: "Integration testing for Restful APIs with Postman"
-
-
+      - title: Quality Control engineer
+        link: "https://alarm.com"
+        tagline: '<ul>
+                   <li>
+                     <strong>Alarm.com</strong>
+                       - Alarm.com is the award-winning smart home and business security platform that millions of customers depend on every day. 
+                          Twenty years ago, we reinvented the security system to protect you better from intruders.
+                          We've been reinventing it ever since, creating a service that protects home and business owners worldwide,
+                          including our own friends and families.
+                   </li>
+                   <li>
+                    <strong>Web Application Testing</strong>
+                     — A Management site for smarthome kit setup.
+                   </li>
+                   <li>
+                     <strong>IOS Application Testing</strong>
+                      — A Mobile client for user to setup their home kit.
+                   </li>
+                    <li>
+                     <strong>IoT Testing</strong>
+                      — The smart home devices like camera, doorbell, thermal, sensors ..
+                   </li>
+                  </ul>
+                  <div><br><u>Role</u>: Quality Control engineer.</div>
+                  <div><u>Stack</u>:</div>
+                  <div><ul>
+                    <li>Web Testing, Mobile Testing, IoT Testing</li>
+                    <li>CI/CD: On Demand </li>
+                    <li>Bug Tracking: Jira</li>
+                    </ul>
+                  </div>'
 
 skills:
     title: Skills &amp; Proficiency

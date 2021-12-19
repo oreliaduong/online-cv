@@ -72,37 +72,37 @@ projects:
     intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years."    
 
     assignments:
-      - title: Quality Control engineer
+      - title: Quality Control Engineer at Weaveley Software, Vietnam
         link: "https://alarm.com"
-        tagline: '<ul>
-                   <li>
-                     <strong>Alarm.com</strong>
-                       - Alarm.com is the award-winning smart home and business security platform that millions of customers depend on every day. 
-                          Twenty years ago, we reinvented the security system to protect you better from intruders.
-                          We've been reinventing it ever since, creating a service that protects home and business owners worldwide,
-                          including our own friends and families.
-                   </li>
-                   <li>
-                    <strong>Web Application Testing</strong>
-                     — A Management site for smarthome kit setup.
-                   </li>
-                   <li>
-                     <strong>IOS Application Testing</strong>
-                      — A Mobile client for user to setup their home kit.
-                   </li>
-                    <li>
-                     <strong>IoT Testing</strong>
-                      — The smart home devices like camera, doorbell, thermal, sensors ..
-                   </li>
-                  </ul>
-                  <div><br><u>Role</u>: Quality Control engineer.</div>
-                  <div><u>Stack</u>:</div>
-                  <div><ul>
+        tagline: "<ul>
+                  <li>
+                    <strong>Alarm.com</strong>
+                      - Alarm.com is the award-winning smart home and business security platform that millions of customers depend on every day. 
+                        Twenty years ago, we reinvented the security system to protect you better from intruders.
+                        We've been reinventing it ever since, creating a service that protects home and business owners worldwide,
+                        including our own friends and families.
+                  </li>
+                  <li>
+                  <strong>Web Application Testing</strong>
+                    — A Management site for smarthome kit setup.
+                  </li>
+                  <li>
+                    <strong>IOS Application Testing</strong>
+                    — A Mobile client for user to setup their home kit.
+                  </li>
+                  <li>
+                    <strong>IoT Testing</strong>
+                    — The smart home devices like camera, doorbell, thermal, sensors ..
+                  </li>
+                </ul>
+                <div><ul>Stack</ul>:</div>
+                <div>
+                  <ul>
                     <li>Web Testing, Mobile Testing, IoT Testing</li>
-                    <li>CI/CD: On Demand </li>
-                    <li>Bug Tracking: Jira</li>
-                    </ul>
-                  </div>'
+                    <li> CI/CD: On Demand </li>
+                    <li> Bug Tracking: Jira</li>
+                  </ul>
+                </div>"
 
 skills:
     title: Skills &amp; Proficiency

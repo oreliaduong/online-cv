@@ -16,12 +16,12 @@ sidebar:
     phone: 0934995001
     website: oreliaduong.github.io #do not add http://
     linkedin: oanh-duong-94464b117
-    xing: 
+    xing: #
     github: oreliaduong
     telegram: # add your nickname without '@' sign
-    gitlab:
+    gitlab: #
     bitbucket:
-    twitter: 
+    twitter: $
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -75,15 +75,29 @@ projects:
     assignments:
       - title: Web testing
         link: "#"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "A Management site for smarthome kit setup"
 
       - title: IOS Testing
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A Mobile client for user to setup their home kit"
 
       - title: IoT Testing
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "The smart home devices like camera, doorbell, thermal, sensors .."
+
+    title: Lotte.vn
+    intro: >
+      Lotte.vn is ecomerce website for Vietnam
+
+    assignments:
+      - title: Web testing
+        link: "#"
+        tagline: "Ecomerce web application"
+
+      - title: API Testing
+        link: "#"
+        tagline: "Integration testing for Restful APIs with Postman"
+
 
 
 skills:

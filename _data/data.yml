@@ -82,23 +82,10 @@ projects:
                         We've been reinventing it ever since, creating a service that protects home and business owners worldwide,
                         including our own friends and families.
                   </li>
-                  <li>
-                  <strong>Web Application Testing</strong>
-                    — A Management site for smarthome kit setup.
-                  </li>
-                  <li>
-                    <strong>IOS Application Testing</strong>
-                    — A Mobile client for user to setup their home kit.
-                  </li>
-                  <li>
-                    <strong>IoT Testing</strong>
-                    — The smart home devices like camera, doorbell, thermal, sensors ..
-                  </li>
-                </ul>
-                <div><ul>Stack</ul>:</div>
+                <div><u>Stack</u>:</div>
                 <div>
                   <ul>
-                    <li>Web Testing, Mobile Testing, IoT Testing</li>
+                    <li>Testing: Web , Mobile , API , IoT </li>
                     <li> CI/CD: On Demand </li>
                     <li> Bug Tracking: Jira</li>
                   </ul>

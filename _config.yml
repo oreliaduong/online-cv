@@ -1,8 +1,8 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
+title: Oanh Duong CV
+url: 'https://oreliaduong.github.io/online-cv'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
@@ -30,6 +30,9 @@ compress_html: # - http://jch.penibelst.de/
   ignore:
     envs: development
 
+gems:
+  - jekyll-pdf
+  
 # Development Settings
 port: 4000
 host: 0.0.0.0

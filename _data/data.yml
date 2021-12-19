@@ -72,8 +72,8 @@ projects:
     intro: "Here you can find a list of open source and commercial projects I've been working on for the past 5 years."    
 
     assignments:
-      - title: Quality Control Engineer at Weaveley Software, Vietnam
-        link: "https://alarm.com"
+      - title: Quality Control Engineer at Waveley Software, Vietnam
+        link: "https://waverleysoftware.com"
         tagline: "<ul>
                   <li>
                     <strong>Alarm.com</strong>
@@ -90,6 +90,21 @@ projects:
                     <li> Bug Tracking: Jira</li>
                   </ul>
                 </div>"
+
+      - title: Quality Control Engineer at TMA Solution, Vietnam
+        link: "https://tma.vn"
+        tagline: "<ul>
+                  <li>
+                    <strong>Lotte.vn</strong>
+                      - Lotte.vn is an ecommerce web application for Vietnam.
+                  </li>
+                <div><u>Stack</u>:</div>
+                <div>
+                  <ul>
+                    <li>Testing: Web , Mobile , API  </li>
+                    <li> Bug Tracking: Jira</li>
+                  </ul>
+                </div>"          
 
 skills:
     title: Skills &amp; Proficiency

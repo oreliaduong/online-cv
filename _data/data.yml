@@ -29,7 +29,7 @@ sidebar:
     languages:
 
       - idiom: English
-        level: Native
+        level: Intermediates
 
 career-profile:
     title: Career Profile
@@ -121,7 +121,7 @@ skills:
       - name: Selenium Java Basic
         level: 50%
 
-      - name: IOT Smart Home Security (Doorbell, camera, thermal ...)
+      - name: IOT Smart Home Security (Panel, doorbell, camera, thermostat, ...)
         level: 85%
 
 
